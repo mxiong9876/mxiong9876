@@ -25,9 +25,9 @@ neural nets for fluid simulation, and years of competitive robotics.
 
 ### Working with
 
-| Languages | ML | Tools |
-| --- | --- | --- |
-| Python<br>Java<br>C / C++<br>JavaScript<br>SQL<br>C# | PyTorch<br>TensorFlow<br>Gymnasium<br>RAG / knowledge graphs | Docker<br>Git<br>Vite<br>Unity |
+**Languages** — Python · Java · C / C++ · JavaScript · SQL · C#<br>
+**ML** — PyTorch · TensorFlow · Gymnasium · RAG / knowledge graphs<br>
+**Tools** — Docker · Git · Vite · Unity
 
 ---
 
