@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Hello — Michael Xiong, CS @ UC San Diego" width="100%">
+<img src="banner.svg" alt="Michael Xiong, CS @ UC San Diego" width="100%">
 
 I build ML systems — and the tools that let you watch them learn.
 
