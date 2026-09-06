@@ -1,6 +1,6 @@
-# Michael Xiong
+<img src="banner.svg" alt="Hello — Michael Xiong, CS @ UC San Diego" width="100%">
 
-CS @ UC San Diego. I build ML systems — and the tools that let you watch them learn.
+I build ML systems — and the tools that let you watch them learn.
 
 Currently: multimodal condition monitoring for wind turbines. Previously: physics-informed
 neural nets for fluid simulation, and years of competitive robotics.
