@@ -34,4 +34,4 @@ neural nets for fluid simulation, and years of competitive robotics.
 ### Elsewhere
 
 - **Email** — [mxiong9876@gmail.com](mailto:mxiong9876@gmail.com)
-- **LinkedIn** — [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/michael-xiong8)
+- **LinkedIn** — [linkedin.com/in/michael-xiong8](https://linkedin.com/in/michael-xiong8)
