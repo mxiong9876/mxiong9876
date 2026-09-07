@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Michael Xiong, CS @ UC San Diego" width="100%">
+<img src="banner.svg" alt="Michael Xiong" width="100%">
 
 Computer Science major student at UC San Diego with a focus on applied AI and software engineering. I build end-to-end systems from IoT dashboards to ML pipelines working as a solo app developer and team researcher in the Center for Mathematical Artifical Intelligence at The Chinese University of Hong Kong.
 
