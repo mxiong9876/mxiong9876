@@ -2,7 +2,7 @@
 
 Computer Science major student at UC San Diego with a focus on applied AI and software engineering. I build end-to-end systems from IoT dashboards to ML pipelines working as a solo app developer and team researcher in the Center for Mathematical Artifical Intelligence at The Chinese University of Hong Kong.
 
-Currently: Recreating RFT results from [Understanding Data Influence in RFT](https://proceedings.neurips.cc/paper_files/paper/2025/file/3755a02b1035fbadd5f93a022170e46f-Paper-Conference.pdf) 
+Currently: Working on a Volleyball Video Analysis App
 
 ---
 
