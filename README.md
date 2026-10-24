@@ -1,36 +1,54 @@
 <img src="banner.svg" alt="Michael Xiong" width="100%">
 
-Computer Science major student at UC San Diego with a focus on applied AI and software engineering. I build end-to-end systems from IoT dashboards to ML pipelines working as a solo app developer and team researcher in the Center for Mathematical Artifical Intelligence at The Chinese University of Hong Kong.
+### Hi, I'm Michael Xiong
+
+Computer Science student at **UC San Diego** focused on **applied AI** and **software engineering**. I like building end-to-end systems, from data pipelines and ML models to the dashboards and apps people actually use. Lately I've been working on LLM personalization, reinforcement fine-tuning, and sports and campus analytics.
 
 Currently: Working on a Volleyball Video Analysis App
 
----
+<a href="mailto:mxiong9876@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=E01E1E" alt="Email"></a>
+<a href="https://linkedin.com/in/michael-xiong8"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E01E1E" alt="LinkedIn"></a>
 
-### Selected work
+<img src="assets/divider.svg" width="100%" height="6">
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **[wind-farm-agent](https://github.com/mxiong9876/wind-farm-agent)** | Multimodal condition monitoring for wind turbines. SCADA, vibration, imagery, and acoustic streams are encoded separately, fused into a single per-turbine health state, and read out by task heads or a frozen LLM that writes the maintenance assessment. Trained on the Kelmarsh open dataset. | PyTorch, DINOv2, TCN |
-| **[triton-dining-dashboard](https://github.com/mxiong9876/triton_dining_dashboard)** | Personal analytics for UCSD dining. Import your Triton2Go / Transact receipts and see total spend, favorite halls, and when you actually eat. | React, Vite, Recharts, Tailwind |
-| **[llm-personalization](https://github.com/mxiong9876/LLM_Personalization---ACM-AI-Team4)** | ACM AI research team project on personalized LLMs. I built the data pipeline that turns the raw Enron corpus into LaMP-style user profiles for fine-tuning. | Python, LaMP |
+### Projects
+
+<p>
+  <a href="https://github.com/mxiong9876"><img src="assets/volleyball.svg" alt="Volleyball App Analyzer" width="32%"></a>
+  <!-- TODO: replace the link above with the Volleyball App Analyzer repo URL -->
+  <a href="https://github.com/mxiong9876/triton_dining_dashboard"><img src="assets/dining.svg" alt="Triton Dining Dashboard" width="32%"></a>
+  <a href="https://github.com/mxiong9876/LLM_Personalization---ACM-AI-Team4"><img src="assets/llm.svg" alt="LLM Personalizer" width="32%"></a>
+</p>
+
+<img src="assets/divider.svg" width="100%" height="6">
+
+### Experience
 
 <!--
+  Add internships below, newest first. Copy this block for each one:
 
-| **[rl-dashboard](https://github.com/mxiong9876/rl-dashboard)** | Live dashboard for Gymnasium training runs: metric curves over WebSocket, episode replay, and a trajectory blur that sharpens into the optimal path as the agent converges. | Python, FastAPI, React |
-| **[enron-lamp](https://github.com/mxiong9876/enron-lamp)** | Turns the Enron email dump into LaMP-format JSON for personalization benchmarks. | Python |
+  **Role Title** · Company Name
+  <sub>Month YYYY – Month YYYY · City, ST</sub>
+  - What you built or owned, and the result
+  - Tools / stack used
 -->
 
----
+**Role Title** · Company Name<br>
+<sub>Month YYYY – Month YYYY · Location</sub>
+- What you built or owned, and the impact
+- Tools / stack used
 
-### Working with
+<img src="assets/divider.svg" width="100%" height="6">
 
-**Languages** — Python · Java · C / C++ · JavaScript · SQL · C#<br>
-**ML** — PyTorch · TensorFlow · Gymnasium · RAG / knowledge graphs<br>
-**Tools** — Docker · Git · Vite · Unity
+### Tech
 
----
-
-### Elsewhere
-
-- **Email** — [mxiong9876@gmail.com](mailto:mxiong9876@gmail.com)
-- **LinkedIn** — [linkedin.com/in/michael-xiong8](https://linkedin.com/in/michael-xiong8)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=E01E1E)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=E01E1E)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=E01E1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=E01E1E)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=E01E1E)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=E01E1E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=E01E1E)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=E01E1E)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=E01E1E)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=E01E1E)
