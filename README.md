@@ -33,10 +33,13 @@ Currently: Working on a Volleyball Video Analysis App
   - Tools / stack used
 -->
 
-**Role Title** · Company Name<br>
-<sub>Month YYYY – Month YYYY · Location</sub>
-- What you built or owned, and the impact
-- Tools / stack used
+**Wind Farm Agentic AI Research Intern** · Center for Mathematical AI, Chinese University of Hong Kong<br>
+<sub>March 2026 – September 2026 · Hybrid, Hong Kong</sub>
+- Trained continuous-action MAPPO wake-steering policies on WFCRL/FLORIS, achieving a ~17.8% power gain over the greedy baseline
+- Traced training divergence in a 30-turbine MARL policy to per-agent credit assignment and replaced the shared farm-wide reward with a per-turbine blended reward, turning a loss vs. greedy into a 5.2% gain
+- Built a multimodal condition-monitoring model for turbine fault detection, encoding SCADA, vibration, acoustic, and RGB data into a shared token space for a Qwen-VL backbone
+- Designed a closed-loop edge-cloud agentic pipeline for turbine O&M, distilling cloud VLM anomaly detection into edge-deployable student policies
+- Stack: Python, PyTorch, MARL (MAPPO), WFCRL/FLORIS, Qwen-VL
 
 <img src="assets/divider.svg" width="100%" height="6">
 
